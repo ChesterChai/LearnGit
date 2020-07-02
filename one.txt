@@ -1,3 +1,4 @@
 line one in file one.
 line two in file one.
 line three in file one.
+line four in file one.
